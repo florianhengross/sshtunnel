@@ -1,9 +1,6 @@
 # TunnelVault
 
 > Self-hosted SSH & TCP tunneling over WebSocket — like ngrok, but private.
-> Built by [Syntax Systems](https://github.com/Syntax-DMC)
-
-Expose devices behind NAT or firewalls (e.g. Raspberry Pi) via an EC2 relay server. SSH into any device from anywhere — no port forwarding, no VPN.
 
 ---
 
@@ -204,4 +201,4 @@ EC2 Security Group prüfen — Port 4000 muss eingehend freigegeben sein. Untern
 
 ## Lizenz
 
-MIT — © [Syntax Systems](https://github.com/Syntax-DMC)
+MIT
